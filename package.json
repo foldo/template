@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^10.0.0",
+    "foldo": "^0.1.1",
     "rollup": "^2.33.3",
     "rollup-plugin-typescript2": "^0.29.0",
     "ts-node": "^9.0.0",
